@@ -1,4 +1,4 @@
-<div class="sidebar_title icon__ulb"> 全球移动网络 UMQA</div>
+全球移动网络 UMQA
 
 
 * [概览](network/umqa/overview)
