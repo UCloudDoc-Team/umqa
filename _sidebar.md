@@ -7,10 +7,10 @@
   * [产品特色](network/umqa/intro/product_features)
   * [使用流程](network/umqa/intro/product_use)
   * 概念介绍
-    * [什么是UMQA源数据？](network/umqa/intro/product_concept)
-    * [源数据适用于什么场景？](network/umqa/intro/product_concept)
-    * [源数据转存、运营分析设计哪些公有云产品支持？](network/umqa/intro/product_concept)
-    * [UMQA与UFile、USQL的关系](network/umqa/intro/product_concept)
+    * [什么是UMQA源数据？](network/umqa/intro/concept/umqa_data)
+    * [源数据适用于什么场景？](network/umqa/intro/concept/umqa_scenes)
+    * [源数据转存、运营分析设计哪些公有云产品支持？](network/umqa/intro/concept/umqa_associate)
+    * [UMQA与UFile、USQL的关系](network/umqa/intro/concept/umqa_usql_ufile)
 * 操作流程 
   * [创建APP](network/umqa/operate/operate_create)
   * [在UFile中查看转存的源数据](network/umqa/operate/operate_ufile_view)
