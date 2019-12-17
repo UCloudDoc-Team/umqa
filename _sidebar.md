@@ -1,4 +1,4 @@
-<div class="sidebar_title icon__umqa"> 全球移动网络 UMQA</div>
+<div class="sidebar_title icon__qqtc"> 全球移动网络 UMQA</div>
 
 
 * [概览](network/umqa/overview)
