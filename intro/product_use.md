@@ -1,6 +1,6 @@
 # 使用流程
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/intro_01.png)
+![](/images/intro_01.png)
 
 * 在UMQA控制台注册应用 
 * 集成SDK到你的APP中

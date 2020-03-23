@@ -2,11 +2,11 @@
 
 a. 进入到刚刚你创建的数据库并选择创建数据表。如下图所示：
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/operation_09.png)
+![](/images/operation_09.png)
 
 
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/operation_10.png)
+![](/images/operation_10.png)
 
 
 
