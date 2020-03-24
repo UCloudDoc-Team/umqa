@@ -2,13 +2,13 @@
 
 首先必须登录控制台，然后进入`全球移动网络 UMQA`
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/operation_01.png)
+![](/images/operation_01.png)
 
 
 
 点击`注册APP`按钮
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/operation_02.png)
+![](/images/operation_02.png)
 
 
 
@@ -22,17 +22,17 @@
 4. 选择要转存的源数据类型，可以选择只转存`ping`、只转存`traceroute`、两者都转存。
 5. 转存源数据的文件名称，请按照规则填写。
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/operation_03.png)
+![](/images/operation_03.png)
 
 
 
 注册好APP后，目前还没有数据上报，如下图所示：
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/operation_04.png)
+![](/images/operation_04.png)
 
 
 
 然后点击`查看APPKey`按钮即可查看APP Key和App Secret,进而这些参数应用你你的APP内集成SDK。 
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/operation_05.png)
+![](/images/operation_05.png)
 

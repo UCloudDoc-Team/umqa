@@ -2,7 +2,7 @@
 
 集成SDK并有数据上报后，我们可以在UCloud控制台上查看某一区域的网络质量。如下图所示，我选择了目标覆盖国家/地区是中国大陆，选择一个自定义ip和两个UCloud数据中心并得出网络质量报表。
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/result_01.png)
+![](/images/result_01.png)
 
 从地区粒度结果可以看出，由于我们选择了三个ip(一个自定义ip,两个UCloud数据中心)，所以结果总共有c1、c2、c3三列。我们选择c2做详细分析，其它列表示的含义同c2时一样的。 
 

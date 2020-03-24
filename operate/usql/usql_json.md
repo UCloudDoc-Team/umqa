@@ -20,4 +20,4 @@ from(
 
 查询结果如下： 
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/operation_13.png)
+![](/images/operation_13.png)

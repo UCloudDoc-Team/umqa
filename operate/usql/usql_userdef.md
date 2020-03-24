@@ -17,10 +17,10 @@ from(
 );
 ```
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/operation_14.png)
+![](/images/operation_14.png)
 
 
 
 查询tracert数据：
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/operation_15.png)
+![](/images/operation_15.png)

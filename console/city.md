@@ -2,7 +2,7 @@
 
 如果你觉得地区粒度的网络质量报表还不够精确，那么你可以选择查看城市粒度的网络质量。其具体结果如下图所示。 
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/result_02.png)
+![](/images/result_02.png)
 
 
 

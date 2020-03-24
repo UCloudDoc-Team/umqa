@@ -43,4 +43,4 @@ LOCATION 'ufile://umqa-org-0czmci-uciosdemo/umqa/traceroute/uciosdemo' TBLPROPER
 
 执行完成后，预览数据如下： 
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/operation_12.png)
+![](/images/operation_12.png)

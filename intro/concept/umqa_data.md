@@ -6,4 +6,5 @@
 
 后续 `UMQA`将向客户开放该 APP 针对 `UCLOUD` 数据中心的源数据质量探测，用户可以直接转 存查看。 
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/intro_02.png)
+![](/images/intro_02.png)
+

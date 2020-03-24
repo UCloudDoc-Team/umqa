@@ -2,7 +2,7 @@
 
 在地区粒度的网络分析结果中，有一个字段是评分，为了解决你对评分的迷惑我们特别对该字段的由来做出详细说明。我通过软件质量评分的规则画出一个函数图像，由此可以很好的看出你的主机对应覆盖地区的评分在整个评分体系中的一个位置等级。
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/result_03.png)
+![](/images/result_03.png)
 
 假设延迟用d表示、丢包率用p表示计算评分的函数方程式是：延迟函数方程：
 
@@ -37,4 +37,4 @@ f(d,p) = f(d)+f(p);
 
 我们根据以上方程式得出延迟和丢包的函数图如下所示： 
 
-![](https://raw.githubusercontent.com/UCloudDocs/umqa/dev/imgs/result_04.png)
+![](/images/result_04.png)
