@@ -1,7 +1,7 @@
 # umqa
 
 * 产品介绍
-  * [产品定位.](/umqa/intro/product_position)
+  * [产品定位](/umqa/intro/product_position)
   * [产品特色](/umqa/intro/product_features)
   * [使用流程](/umqa/intro/product_use)
   * 概念介绍
