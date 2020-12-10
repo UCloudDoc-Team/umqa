@@ -1,5 +1,3 @@
-<div class="sidebar_title icon__qqtc"> 全球移动网络 UMQA</div>
-
 
 * [概览](/umqa/README)
 * 产品介绍
